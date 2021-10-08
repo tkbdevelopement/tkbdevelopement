@@ -2,7 +2,7 @@
 # 🔥 **Tekhnologi Kawasan Bahagia**
 
 <p align="center">
-  <a href="http://www.sakedap.com">
+  <a href="http://tkb.co.id">
     <img width="100%" src="https://i.imgur.com/SVvgxJF.png" alt="@Josee9988/project-template's">
   </a>
   <br>
