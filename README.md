@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="http://tkb.co.id">
-    <img width="100%" src="https://i.imgur.com/SVvgxJF.png" alt="@Josee9988/project-template's">
+    <img width="100%" src="https://tkb.co.id/images/logo-dark.png" alt="">
   </a>
   <br>
   <a href="#">
