@@ -1,5 +1,7 @@
 <!-- markdownlint-disable MD032 MD033-->
-# :smiley: **Tekhnologi Kawasan Bahagia** :grin: :grin: :grin: :grin:
+# **Tekhnologi Kawasan Bahagia**
+We are always happy to build you apps based on Android, IOS, Desktop, or Website.
+### Build Happiness
 
 <p align="center">
   <a href="http://tkb.co.id">
